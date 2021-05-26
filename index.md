@@ -1,1 +1,4 @@
-Test page
+
+Terms and Conditions and Privacy Policy
+
+We run ads to support the game which may gather some data including device ID but we do not gather or use any personally identifiable information.
